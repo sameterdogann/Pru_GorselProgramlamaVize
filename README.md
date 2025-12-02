@@ -1,4 +1,4 @@
-# 🇹🇷 Türkiye Cumhuriyeti Resmi Tatil Takip Uygulaması
+# Türkiye Cumhuriyeti Resmi Tatil Takip Uygulaması
 
 Bu proje, Türkiye'deki resmi tatil günlerini harici bir API (`date.nager.at`) üzerinden çekip konsol ekranında listeleyen ve arama yapmaya olanak tanıyan bir **C# konsol uygulamasıdır**.
 
